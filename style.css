@@ -1,0 +1,91 @@
+
+
+p {
+    color: rgb(157, 146, 146);
+    font-size: 17px;
+}
+#paragrapgh{
+    max-width: 900px;
+}
+
+h4{
+    color: rgb(169, 164, 164);
+}
+
+#HRpic {
+    background-image: url('img/hr-img.png');
+    height: 12px;
+    width: 67%;
+    margin-left: 0%;
+   
+}
+
+  
+  .Delicious{
+     display: inline;
+    
+  }
+  
+  h1{
+    font-weight: bold;
+    font-family: 'Pacifico', cursive;
+  }
+  
+  li{
+    list-style-type: square ;
+  }
+  
+  .right{
+  float: right;
+  margin-right: 450px;
+  }
+  
+  #printlogo{
+    float: right;
+  }
+  .left{
+    display: inline-table;
+
+  }
+  
+  .RecipeDiv{
+  position: relative;
+  }
+  
+  .recipeInfo{
+    position: absolute;
+    background-color: transparent;
+    bottom: 30px;
+    left: 30px;
+    padding-right: 20px;
+    margin-left: 180px;
+    margin-bottom: 50px;
+  }
+  
+  .recipe{
+
+    padding: 20px;
+    float: left;
+  }
+
+  button{
+      margin-left: 670px;
+      height: 50px;
+      width: 100px;
+      background-color: rgb(177, 109, 82);
+      color: rgb(255, 255, 255);
+     
+  }
+  
+  
+  .center{
+    align-content: stretch;
+  }
+ 
+  .lineThrough{
+      text-decoration: line-through;
+  }
+
+  #centerFooter {
+      margin-left: 300px;
+  }
